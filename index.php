@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hello, World from Guybrush Threepwood</h1>
-    <h2>Come va?</h2>
+    <h2>How it's going?</h2>
 </body>
 </html>
